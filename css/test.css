@@ -731,6 +731,11 @@
     text-align: center;
     letter-spacing: 0;
     line-height: normal;
+    text-decoration: none;
+  }
+
+  .homepage .text-wrapper-22:hover{
+    text-decoration: underline;
   }
   
   .homepage .text-wrapper-23 {
@@ -745,6 +750,11 @@
     color: #000000;
     letter-spacing: 0;
     line-height: normal;
+    text-decoration: none;
+  }
+
+  .homepage .text-wrapper-23:hover{
+    text-decoration: underline;
   }
   
   .homepage .text-wrapper-24 {
@@ -759,6 +769,11 @@
     text-align: center;
     letter-spacing: 0;
     line-height: normal;
+    text-decoration: none;
+  }
+
+  .homepage .text-wrapper-24:hover{
+    text-decoration: underline;
   }
   
   .homepage .ellipse-3 {
