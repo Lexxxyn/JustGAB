@@ -64,6 +64,10 @@
     letter-spacing: 0;
     line-height: normal;
   }
+
+  .activity .text-wrapper:hover{
+    text-decoration: underline;
+  }
   
   .activity .text-wrapper-2 {
     position: absolute;
@@ -77,6 +81,10 @@
     text-align: center;
     letter-spacing: 0;
     line-height: normal;
+  }
+
+  .activity .text-wrapper-2:hover{
+    text-decoration: underline;
   }
   
   .activity .overlap-group {
@@ -794,6 +802,10 @@
     text-align: center;
     letter-spacing: 0;
     line-height: normal;
+  }
+
+  .activity .text-wrapper-15:hover{
+    text-decoration: underline;
   }
   
   .activity .ellipse-3 {
